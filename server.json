@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.hyperdrift-io/nextrole",
-  "description": "Résumé & job-search tools for AI agents: ATS check, CV-vs-role score, live role search, JD fetch, and CV tailoring.",
+  "description": "Résumé & job-search tools: ATS check, CV-vs-role score, role search, JD fetch, CV tailoring.",
   "version": "1.0.1",
   "repository": {
     "url": "https://github.com/hyperdrift-io/nextrole-mcp",
