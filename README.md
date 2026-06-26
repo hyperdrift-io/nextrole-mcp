@@ -1,6 +1,6 @@
 # NextRole — MCP Server
 
-> Résumé & job-search tools for AI agents: **ATS check, CV-vs-role score, live role search, JD fetch, and CV tailoring.** Turn a CV into interview callbacks.
+> **NextRole is a job-search companion** — tailor your CV to a role, score fit, and fix ATS issues at [nextrole.site](https://nextrole.site). It is also available to AI agents via this MCP server.
 
 This repo is the public discovery surface for the **NextRole** MCP server. The server itself is a hosted, remote service — there is nothing to install.
 
